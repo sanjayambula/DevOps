@@ -1,1 +1,2 @@
 DevOps day1 
+discussed about Devops life cycle
